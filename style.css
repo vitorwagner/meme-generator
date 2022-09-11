@@ -36,6 +36,8 @@ body {
   text-shadow: 5px 5px 5px black;
   font-size: 30px;
   color: white;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 #default-memes {
